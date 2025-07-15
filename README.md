@@ -39,19 +39,19 @@ Um clássico jogo da velha implementado em Python que utiliza o algoritmo **Mini
 
 WordZapper é um jogo arcade de tiro e vocabulário em que o jogador controla uma nave no espaço e deve atirar nas letras corretas para formar palavras.
 
-#### 🚀 Como jogar
+####  Como jogar
 
 - Mova a nave com as teclas **WASD**.
 - Pressione **Barra de Espaço (Space)** para disparar.
 - Acerte as letras da palavra exibida na parte superior da tela.
 - Evite colidir com os obstáculos espaciais!
 
-#### 🧠 Objetivo
+####  Objetivo
 
 - Formar corretamente a palavra sorteada disparando nas letras corretas.
 - O jogo termina quando o tempo se esgota ou você completa todas as palavras.
 
-#### 📦 Requisitos
+####  Requisitos
 
 - Python 3.x
 - Biblioteca `pygame` instalada (`pip install pygame`)
@@ -61,18 +61,18 @@ WordZapper é um jogo arcade de tiro e vocabulário em que o jogador controla um
 
 Uma versão clássica do jogo da forca desenvolvida em Python. Ideal para treinar lógica de programação e manipulação de strings.
 
-#### 🎯 Como jogar
+####  Como jogar
 
 - O jogador deve adivinhar letras de uma palavra secreta.
 - Cada letra errada desenha uma parte da forca.
 - O jogo termina quando o jogador adivinha a palavra ou você perde.
 
-#### 🧠 Objetivo
+####  Objetivo
 
 - Descobrir a palavra antes de cometer erros demais.
 - O jogo utiliza palavras de um arquivo externo (`palavras.txt`), tornando-o facilmente personalizável.
 
-#### 📦 Requisitos
+####  Requisitos
 
 - Python 3.x
 - Biblioteca `easygui` instaldada (`pip install easygui`)
