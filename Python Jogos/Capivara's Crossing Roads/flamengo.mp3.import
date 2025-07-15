@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b2k3ncdi43mij"
+path="res://.godot/imported/flamengo.mp3-c5b9b3347b522496b9a1b49daa5b3c50.mp3str"
+
+[deps]
+
+source_file="res://Python Jogos/Frogger/flamengo.mp3"
+dest_files=["res://.godot/imported/flamengo.mp3-c5b9b3347b522496b9a1b49daa5b3c50.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
